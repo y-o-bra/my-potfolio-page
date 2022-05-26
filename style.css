@@ -1,0 +1,19 @@
+h2{
+    color: rgb(54, 42, 97) !important;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    width: 50%;
+    float: left;
+}
+img{
+    width: 488px; 
+    border-radius:70px ;
+    vertical-align: baseline;
+    border-style: initial;
+    border:10px solid blue;}
+p{
+    border: 1px solid red;
+    margin:0 100px;
+}
